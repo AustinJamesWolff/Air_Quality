@@ -7,8 +7,14 @@ name = "pypi"
 flask = "*"
 flask-sqlalchemy = "*"
 requests = "*"
+py-openaq = "*"
+pandas = "*"
+numpy = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
+flake8 = "*"
 
 [requires]
 python_version = "3.9"
